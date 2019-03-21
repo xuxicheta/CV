@@ -42,7 +42,7 @@
 * Vue.js + Vuex,  админки на готовых библиотеках, Vuetify, ElementUI и т.д.<br>
 * Angular (Material, PrimeNg, PWA) <br>
 * websocket, webrct, firebase, sequelize, Postgres, MongoDB<br>
-* верстка (scss, bootstrap)<br>
+* верстка (scss, less, bootstrap)<br>
 * базовые задачи администрирования, docker, git, ansible<br>
 * python + django. Нет коммерческого опыта
 #### В планах
