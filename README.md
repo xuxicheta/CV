@@ -13,6 +13,14 @@
     <td>shvets.a.v@yandex.ru<br>antshvets@gmail.com</td>
   </tr>
   <tr>
+    <td>Telegram</td>
+    <tr>@wisemant</td>
+  </tr>
+  <tr>
+    <td>Skype</td>
+    <td>wiseman_t</td>
+  </tr>
+  <tr>
     <td>Семейное положение</td>
     <td>женат, двое детей</td>
   </tr>
