@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>Telegram</td>
-    <tr>@wisemant</td>
+    <td>@wisemant</td>
   </tr>
   <tr>
     <td>Skype</td>
