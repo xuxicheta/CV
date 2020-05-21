@@ -84,9 +84,8 @@
 * целиком фронт, разработка архитектуры и выбор технических решений.
 
 #### Дополнительные навыки:
-* профиль на habr 
+* профиль на habr <br>
     https://habr.com/ru/users/xuxicheta/   
     https://qna.habr.com/user/Xuxicheta
-* Организация сайтов на Wordpress, CMS MadeSimple, Bitrix.
 * Разработка небольших приложений на C++ Qt.
 * Английский Intermediate, свободное чтение, переписка.
