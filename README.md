@@ -1,67 +1,34 @@
-### Швец Антон Валерьевич
+### Shvets Anton
+#### Frontend Developer
 <img src="https://avatars1.githubusercontent.com/u/35596024?s=400&u=f1b1ce9566e7fb7d7fd8d4d10a05a456b8a3e87c&v=4">
-<table>
-  <tr>
-    <td>Дата рождения</td>
-    <td>17 мая 1982 г</td>
-  </tr>
-  <tr>
-    <td>Телефон</td>
-    <td>+7 (915) 385-19-62</td>
-  </tr>
-  <tr>
-    <td>E-mail</td>
-    <td>shvets.a.v@yandex.ru<br>antshvets@gmail.com</td>
-  </tr>
-  <tr>
-    <td>Telegram</td>
-    <td>@wisemant</td>
-  </tr>
-  <tr>
-    <td>Skype</td>
-    <td>wiseman_t</td>
-  </tr>
-  <tr>
-    <td>Семейное положение</td>
-    <td>женат, двое детей</td>
-  </tr>
-  <tr>
-    <td>Проживание</td>
-    <td>г. Клин, Московской области</td>
-  </tr>
-  <tr>
-    <td>Зарплатные ожидания</td>
-    <td>230 000</td>
-  </tr>
-</table>
 
-#### Образование:
-В 2004 году закончил<br>
-Московский государственный институт электронной техники (МИЭТ),<br>
-факультет Микроприборов и технической кибернетики (МПиТК) по специальности «Радиоинженер».
-#### О себе:
-Долгое время работал в военно-промышленной отрасли, разрабатывал аналоговые схемы, писал документацию, проводил испытания. Параллельно писал небольшие сервисы для внутреннего использования.<br>
-В итоге сменил сферу деятельности, web стал моей основной профессией.<br>
-Какое-то время был фулстеком, сейчас специализируюсь только на фронтенде.
+05/17/1982 • +7 (915) 385-19-62 • antshvets@gmail.com • <a href="https://t.me/xuxicheta">Telegram</a>
+ • <a href="https://join.skype.com/invite/bzMqHzgpd1k4">Skype</a> • Kaliningrad-Moscow
 
-### О работе
-Последние четыре года удаленно работаю в распределенных командах. <br>
-Сейчас я - основной разработчик фронтенда в двух проектах - личный кабинет для коммунальных услуг и локальная система связи для ПРФ.
-На прошлом проекте был занят в основном задачами связанными с WebRTC и управлением сеансов видеосвязи на бэкенде.<br>
-Есть опыт построения архитектуры сложных приложений, приходилось часто и много рефакторить, искать и исправлять ошибки. Есть опыт руководства разработчиками.<br>
-Стремлюсь к перфекционизму, но понимаю что совершенство недостижимо. Не ведусь на хайп. Понимаю что задача должна быть решена наиболее простым и очевидным способом.<br>
-Есть опыт написания и критической оценки документации, в т.ч. по ГОСТам РФ.<br>
-Часть помогаю разработчикам, провожу ревью.<br>
 
-#### Навыки
-* Angular (Material, PrimeNg, PWA) <br>
+#### Education:
+1999 - 2004: National Research University of Electronic Technology (MIET) 
+#### Profile:
+13 years experience in development in various areas of the aerospace industry. After I have decided to change field of activity, and my hobby became my work.
+I found work at IT industry as fullstack engineer, later I have realized myself as pure Angular frontend developer.
+
+Last 4 years I have been working remotely. 
+My current responsibilities are:
+* Technical decisions and architecture of the whole project
+* UI elements
+* Code reviews
+* Complex forms and data grids
+
+#### Skills
+* Angular 5-11 (Material, PrimeNg, PWA, various state managements and solutions, tests) <br>
 * Typescript, RxJs <br>
-* Node.js (express, koa, nest.js),<br>
-* Vue.js + Vuex,  админки на готовых библиотеках, Vuetify, ElementUI и т.д.<br>
-* Websocket, webrct, firebase, sequelize, Postgres, MongoDB<br>
-* верстка (scss, less, bootstrap)<br>
-* базовые задачи администрирования, docker, git, ansible<br>
-* азы C#/.NET, python.
+* Node.js (express, koa, nest.js, sequelize),<br>
+* Vue.js (Vuetify, ElementUI)<br>
+* React (mobx, redux, redux-saga)
+* Websocket, webrct, firebase, Postgres, MongoDB<br>
+* HTML markup (scss, less, bootstrap)<br>
+* base admin tasks (docker, git, ansible)<br>
+* simple C#/.NET, python.
 
 #### Опыт работы:
 2003 — 2016:  много нерелеватного опыта ГУП НПЦ «Спурт», АО Концерн «Вега» - аналоговая схемотехника, алгоритмы, документация, работа с заказчиком, администрирование серверов, приложения на Qt<br>
@@ -82,9 +49,7 @@
 должность: фронтенд разработчик, техлид.
 * разработка архитектуры фронтенд части и выбор технических решений.
 
-#### Дополнительные навыки:
-* профиль на habr <br>
-    https://habr.com/ru/users/xuxicheta/   
-    https://qna.habr.com/user/Xuxicheta
-* Разработка небольших приложений на C++ Qt.
-* Английский Intermediate, свободное чтение, переписка.
+#### Etc
+https://habr.com/ru/users/xuxicheta/   
+https://qna.habr.com/user/Xuxicheta
+English B2
