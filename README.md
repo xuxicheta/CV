@@ -1,90 +1,62 @@
-### Швец Антон Валерьевич
+### Shvets Anton
+#### Frontend Developer
 <img src="https://avatars1.githubusercontent.com/u/35596024?s=400&u=f1b1ce9566e7fb7d7fd8d4d10a05a456b8a3e87c&v=4">
-<table>
-  <tr>
-    <td>Дата рождения</td>
-    <td>17 мая 1982 г</td>
-  </tr>
-  <tr>
-    <td>Телефон</td>
-    <td>+7 (915) 385-19-62</td>
-  </tr>
-  <tr>
-    <td>E-mail</td>
-    <td>shvets.a.v@yandex.ru<br>antshvets@gmail.com</td>
-  </tr>
-  <tr>
-    <td>Telegram</td>
-    <td>@wisemant</td>
-  </tr>
-  <tr>
-    <td>Skype</td>
-    <td>wiseman_t</td>
-  </tr>
-  <tr>
-    <td>Семейное положение</td>
-    <td>женат, двое детей</td>
-  </tr>
-  <tr>
-    <td>Проживание</td>
-    <td>г. Клин, Московской области</td>
-  </tr>
-  <tr>
-    <td>Зарплатные ожидания</td>
-    <td>230 000</td>
-  </tr>
-</table>
 
-#### Образование:
-В 2004 году закончил<br>
-Московский государственный институт электронной техники (МИЭТ),<br>
-факультет Микроприборов и технической кибернетики (МПиТК) по специальности «Радиоинженер».
-#### О себе:
-Долгое время работал в военно-промышленной отрасли, разрабатывал аналоговые схемы, писал документацию, проводил испытания. Параллельно писал небольшие сервисы для внутреннего использования.<br>
-В итоге сменил сферу деятельности, web стал моей основной профессией.<br>
-Какое-то время был фулстеком, сейчас специализируюсь только на фронтенде.
+05/17/1982 • +7 (915) 385-19-62 • antshvets@gmail.com • <a href="https://t.me/xuxicheta">Telegram</a>
+ • <a href="https://join.skype.com/invite/bzMqHzgpd1k4">Skype</a> • Kaliningrad-Moscow
 
-### О работе
-Последние четыре года удаленно работаю в распределенных командах. <br>
-Сейчас я - основной разработчик фронтенда в двух проектах - личный кабинет для коммунальных услуг и локальная система связи для ПРФ.
-На прошлом проекте был занят в основном задачами связанными с WebRTC и управлением сеансов видеосвязи на бэкенде.<br>
-Есть опыт построения архитектуры сложных приложений, приходилось часто и много рефакторить, искать и исправлять ошибки. Есть опыт руководства разработчиками.<br>
-Стремлюсь к перфекционизму, но понимаю что совершенство недостижимо. Не ведусь на хайп. Понимаю что задача должна быть решена наиболее простым и очевидным способом.<br>
-Есть опыт написания и критической оценки документации, в т.ч. по ГОСТам РФ.<br>
-Часть помогаю разработчикам, провожу ревью.<br>
 
-#### Навыки
-* Angular (Material, PrimeNg, PWA) <br>
+#### Education:
+1999 - 2004: National Research University of Electronic Technology (MIET) 
+#### Profile:
+13 years experience in development in various areas of the aerospace industry. Afterwards I've decided to change work area, and the hobby became my profession.
+I got a job at IT industry as fullstack engineer, then I have realized myself as pure Angular frontend developer.
+5 years in IT, 3 years remotely. 
+
+My current responsibilities are:
+* Technical decisions and architecture of the whole project
+* UI elements support and development
+* Code reviews
+* Complex forms and data grids
+* Holding meetings
+
+#### Skills
+* Angular 5-11 (Material, PrimeNg, PWA, various state managements and solutions, tests) <br>
 * Typescript, RxJs <br>
-* Node.js (express, koa, nest.js),<br>
-* Vue.js + Vuex,  админки на готовых библиотеках, Vuetify, ElementUI и т.д.<br>
-* Websocket, webrct, firebase, sequelize, Postgres, MongoDB<br>
-* верстка (scss, less, bootstrap)<br>
-* базовые задачи администрирования, docker, git, ansible<br>
-* азы C#/.NET, python.
+* Node.js (express, koa, nest.js, sequelize),<br>
+* Vue.js (Vuetify, ElementUI)<br>
+* React (mobx, redux, redux-saga)
+* Websocket, webrct, firebase, Postgres, MongoDB<br>
+* HTML markup (scss, less, bootstrap)<br>
+* common admin tasks (docker, git, ansible, linux setup)<br>
+* basic C#/.NET, python.
 
-#### Опыт работы:
-2003 — 2016:  много нерелеватного опыта ГУП НПЦ «Спурт», АО Концерн «Вега» - аналоговая схемотехника, алгоритмы, документация, работа с заказчиком, администрирование серверов, приложения на Qt<br>
+#### Work experience
+* 2003 — 2016:  electronics engineer in Roscosmos companies<br><br>
 
-2016 — 2017	АО «Центр перспективных технологий и аппаратуры»<br>
-должность: главный специалист<br>
-*	Разработка пользовательского интерфейса мониторинга системы «Тахограф». Node.js + Postgres
+* 2016 — 2017  JSC «CPTA» <br>
+Internal product's user interface development. Node.js/Postgres + Javascript Native<br>
+Linux server management<br><br>
 
-2017 — 2018 НПО «Техномаш»<br>
-должность: главный специалист<br>
-* Веб-сервис для организации торгов. Node.js + Vue/Angular2
+* 2017 — 2018  NPO «Technomash»<br>
+Internal product's user interface development. Node.js + Vue<br>
+Internal B2B market project. Node.js + Angular 2<br>
+Support of docker based services<br>
+Assistant head of department<br><br>
 
-2018 — 2019 АО «Иторум»<br>
-должность: fullstack-разработчик, Node.js + Angular<br>
-* в основном критичные задачи по вопросам видеосвязи через webrtc, ревью кода.
+* 2018 — 2019  JSC «Itorum»<br>
+Fullstack developer, Node.js + Angular 5<br>
+WebRTC relates issues<br>
+Code review, consulting<br><br>
 
-2019 - настоящее время ООО "Сател ПРО"
-должность: фронтенд разработчик, техлид.
-* разработка архитектуры фронтенд части и выбор технических решений.
+* 2019   «Satel LLC»<br>
+Frontend developer, tech lead, Angular 9-11<br>
+Technical decisions and architecture, 3 projects<br>
+Code review, consulting<br><br>
 
-#### Дополнительные навыки:
-* профиль на habr <br>
-    https://habr.com/ru/users/xuxicheta/   
-    https://qna.habr.com/user/Xuxicheta
-* Разработка небольших приложений на C++ Qt.
-* Английский Intermediate, свободное чтение, переписка.
+
+#### Etc
+https://habr.com/ru/users/xuxicheta <br>
+https://qna.habr.com/user/Xuxicheta <br>
+https://github.com/xuxicheta <br>
+English B2
