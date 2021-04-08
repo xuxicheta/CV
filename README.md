@@ -2,7 +2,7 @@
 #### Frontend Developer
 <img src="https://avatars1.githubusercontent.com/u/35596024?s=400&u=f1b1ce9566e7fb7d7fd8d4d10a05a456b8a3e87c&v=4">
 
-05/17/1982 • +7 (915) 385-19-62 • antshvets@gmail.com • Telegram<a href="https://t.me/xuxicheta">@xuxicheta</a>
+05/17/1982 • +7 (915) 385-19-62 • antshvets@gmail.com • Telegram: <a href="https://t.me/xuxicheta">@xuxicheta</a>
  • Skype: <a href="https://join.skype.com/invite/bzMqHzgpd1k4">wiseman_t</a> • Kaliningrad-Moscow
 
 
