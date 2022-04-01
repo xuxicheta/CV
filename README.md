@@ -49,10 +49,13 @@ Fullstack developer, Node.js + Angular 5<br>
 WebRTC relates issues<br>
 Code review, consulting<br><br>
 
-* 2019   «Satel LLC»<br>
+* 2019-2021   «Satel LLC»<br>
 Frontend developer, tech lead, Angular 9-11<br>
 Technical decisions and architecture, 3 projects<br>
 Code review, consulting<br><br>
+
+* 2021   «Veeam»<br>
+Senior Frontend developer, Angular, angular.js<br>
 
 
 #### Etc
