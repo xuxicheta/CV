@@ -21,7 +21,7 @@ My current responsibilities are:
 * Holding meetings
 
 #### Skills
-* Angular 5-11 (Material, PrimeNg, PWA, various state managements and solutions, tests) <br>
+* Angular 5-last (Material, PrimeNg, PWA, various state managements and solutions, tests) <br>
 * Typescript, RxJs <br>
 * Node.js (express, koa, nest.js, sequelize),<br>
 * Vue.js (Vuetify, ElementUI)<br>
