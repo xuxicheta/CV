@@ -57,6 +57,8 @@ Code review, consulting<br><br>
 * 2021   «Veeam»<br>
 Senior Frontend developer, Angular, angular.js<br>
 
+* 2021   «Atomyze»<br>
+Senior Frontend developer, Angular<br>
 
 #### Etc
 https://habr.com/ru/users/xuxicheta <br>
