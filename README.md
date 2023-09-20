@@ -54,11 +54,14 @@ Frontend developer, tech lead, Angular 9-11<br>
 Technical decisions and architecture, 3 projects<br>
 Code review, consulting<br><br>
 
-* 2021   «Veeam»<br>
+* 2021-2022   «Veeam»<br>
 Senior Frontend developer, Angular, angular.js<br>
+Bugfixing and angular.js to Angular massive migration with testing and build customizing
 
-* 2021   «Atomyze»<br>
+
+* 2022   «Atomyze»<br>
 Senior Frontend developer, Angular<br>
+Support ongoing and new starts.
 
 #### Etc
 https://habr.com/ru/users/xuxicheta <br>
